@@ -1,4 +1,4 @@
-package homework;
+package Algorithms;
 
 public class AngryProfessor {
         public static void main(String[] args) {

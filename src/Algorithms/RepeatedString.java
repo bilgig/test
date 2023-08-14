@@ -1,4 +1,4 @@
-package homework;
+package Algorithms;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;
