@@ -16,7 +16,5 @@ public class Menu {
             System.out.println(entry.getKey()+"="+
             entry.getValue());
         }
-
-
     }
 }
